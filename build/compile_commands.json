@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tomasz/git/opengl_test/build/glad",
+  "command": "/bin/x86_64-linux-gnu-gcc-8  -I/home/tomasz/git/opengl_test/glad/include -g -o CMakeFiles/glad.dir/src/glad.c.o -c /home/tomasz/git/opengl_test/glad/src/glad.c",
+  "file": "/home/tomasz/git/opengl_test/glad/src/glad.c"
+},
+{
+  "directory": "/home/tomasz/git/opengl_test/build/test1",
+  "command": "/bin/x86_64-linux-gnu-g++-8 -DGLFW_DLL -I/home/tomasz/git/opengl_test/glad/include -g -std=gnu++17 -o CMakeFiles/test1.dir/test.cpp.o -c /home/tomasz/git/opengl_test/test1/test.cpp",
+  "file": "/home/tomasz/git/opengl_test/test1/test.cpp"
+}
+]
