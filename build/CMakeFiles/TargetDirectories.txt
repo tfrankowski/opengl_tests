@@ -1,8 +1,0 @@
-/home/tomasz/git/opengl_test/build/CMakeFiles/rebuild_cache.dir
-/home/tomasz/git/opengl_test/build/CMakeFiles/edit_cache.dir
-/home/tomasz/git/opengl_test/build/glad/CMakeFiles/edit_cache.dir
-/home/tomasz/git/opengl_test/build/glad/CMakeFiles/rebuild_cache.dir
-/home/tomasz/git/opengl_test/build/glad/CMakeFiles/glad.dir
-/home/tomasz/git/opengl_test/build/test1/CMakeFiles/rebuild_cache.dir
-/home/tomasz/git/opengl_test/build/test1/CMakeFiles/edit_cache.dir
-/home/tomasz/git/opengl_test/build/test1/CMakeFiles/test1.dir

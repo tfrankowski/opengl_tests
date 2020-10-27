@@ -8,5 +8,6 @@ find_package(glfw3 REQUIRED)
 
 add_subdirectory(glad)
 add_subdirectory(test1)
+add_subdirectory(test2)
 
 
